@@ -1,0 +1,1458 @@
+fileFormatVersion: 2
+guid: f19b8e785ba97917391b71d95d162918
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1332453425879270259
+    second: Robot Dodge Neon Arcade Logo_0
+  - first:
+      213: -7895862854829872597
+    second: Robot Dodge Neon Arcade Logo_1
+  - first:
+      213: -7850903169694649141
+    second: Robot Dodge Neon Arcade Logo_2
+  - first:
+      213: -1377523768928205830
+    second: Robot Dodge Neon Arcade Logo_3
+  - first:
+      213: -2607977202640574463
+    second: Robot Dodge Neon Arcade Logo_4
+  - first:
+      213: -1716316969877114107
+    second: Robot Dodge Neon Arcade Logo_5
+  - first:
+      213: -2796917513726679349
+    second: Robot Dodge Neon Arcade Logo_6
+  - first:
+      213: -6913907216802675222
+    second: Robot Dodge Neon Arcade Logo_7
+  - first:
+      213: 2068740625703471130
+    second: Robot Dodge Neon Arcade Logo_8
+  - first:
+      213: 1252308675369665701
+    second: Robot Dodge Neon Arcade Logo_9
+  - first:
+      213: 2222357153343253080
+    second: Robot Dodge Neon Arcade Logo_10
+  - first:
+      213: 2892544658618679192
+    second: Robot Dodge Neon Arcade Logo_11
+  - first:
+      213: -6988257287484580988
+    second: Robot Dodge Neon Arcade Logo_12
+  - first:
+      213: -207587075707965026
+    second: Robot Dodge Neon Arcade Logo_13
+  - first:
+      213: 9033957917460385550
+    second: Robot Dodge Neon Arcade Logo_14
+  - first:
+      213: -6963055924364760056
+    second: Robot Dodge Neon Arcade Logo_15
+  - first:
+      213: 4246761281154539790
+    second: Robot Dodge Neon Arcade Logo_16
+  - first:
+      213: 3432983111548731487
+    second: Robot Dodge Neon Arcade Logo_17
+  - first:
+      213: -4315339353088481416
+    second: Robot Dodge Neon Arcade Logo_18
+  - first:
+      213: 6561683708311116111
+    second: Robot Dodge Neon Arcade Logo_19
+  - first:
+      213: 5902158031718339238
+    second: Robot Dodge Neon Arcade Logo_20
+  - first:
+      213: 6887364634937797958
+    second: Robot Dodge Neon Arcade Logo_21
+  - first:
+      213: -6364437711459501442
+    second: Robot Dodge Neon Arcade Logo_22
+  - first:
+      213: -6403313135922098240
+    second: Robot Dodge Neon Arcade Logo_23
+  - first:
+      213: -8689726105470411998
+    second: Robot Dodge Neon Arcade Logo_24
+  - first:
+      213: 2611340645982126356
+    second: Robot Dodge Neon Arcade Logo_25
+  - first:
+      213: 8280033807590951710
+    second: Robot Dodge Neon Arcade Logo_26
+  - first:
+      213: 820247867009268433
+    second: Robot Dodge Neon Arcade Logo_27
+  - first:
+      213: -5136120576609213226
+    second: Robot Dodge Neon Arcade Logo_28
+  - first:
+      213: -615744674212395627
+    second: Robot Dodge Neon Arcade Logo_29
+  - first:
+      213: 4037705762624014969
+    second: Robot Dodge Neon Arcade Logo_30
+  - first:
+      213: 7798977029556679059
+    second: Robot Dodge Neon Arcade Logo_31
+  - first:
+      213: 2542701701586155493
+    second: Robot Dodge Neon Arcade Logo_32
+  - first:
+      213: 6579273239042511126
+    second: Robot Dodge Neon Arcade Logo_33
+  - first:
+      213: -7129062657628700858
+    second: Robot Dodge Neon Arcade Logo_34
+  - first:
+      213: 7762415307114645063
+    second: Robot Dodge Neon Arcade Logo_35
+  - first:
+      213: 3250876595084684338
+    second: Robot Dodge Neon Arcade Logo_36
+  - first:
+      213: -6073639046023789822
+    second: Robot Dodge Neon Arcade Logo_37
+  - first:
+      213: -6935311084159856330
+    second: Robot Dodge Neon Arcade Logo_38
+  - first:
+      213: -2133988184906584623
+    second: Robot Dodge Neon Arcade Logo_39
+  - first:
+      213: -8974281905296569353
+    second: Robot Dodge Neon Arcade Logo_40
+  - first:
+      213: 4063018224651010763
+    second: Robot Dodge Neon Arcade Logo_41
+  - first:
+      213: 7767534389449035210
+    second: Robot Dodge Neon Arcade Logo_42
+  - first:
+      213: -9102246157359381374
+    second: Robot Dodge Neon Arcade Logo_43
+  - first:
+      213: 2157252112934153732
+    second: Robot Dodge Neon Arcade Logo_44
+  - first:
+      213: -7308869263944761732
+    second: Robot Dodge Neon Arcade Logo_45
+  - first:
+      213: -2477621641876537709
+    second: Robot Dodge Neon Arcade Logo_46
+  - first:
+      213: -2371314184752866158
+    second: Robot Dodge Neon Arcade Logo_47
+  - first:
+      213: 8594458900895139162
+    second: Robot Dodge Neon Arcade Logo_48
+  - first:
+      213: 3349197090573206624
+    second: Robot Dodge Neon Arcade Logo_49
+  - first:
+      213: 2441329226210882613
+    second: Robot Dodge Neon Arcade Logo_50
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Robot Dodge Neon Arcade Logo_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1669
+        height: 933
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8cb6b63bac228de0800000000000000
+      internalID: -1332453425879270259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Dodge Neon Arcade Logo_1
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 899
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2ae9ae41924c6290800000000000000
+      internalID: -7895862854829872597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Dodge Neon Arcade Logo_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 801
+        width: 45
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc4bc5cb92dfb0390800000000000000
+      internalID: -7850903169694649141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Dodge Neon Arcade Logo_3
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 881
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af3806b3e6d02ece0800000000000000
+      internalID: -1377523768928205830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Dodge Neon Arcade Logo_4
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 881
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 108aa464d8a9ecbd0800000000000000
+      internalID: -2607977202640574463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Dodge Neon Arcade Logo_5
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 875
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 503ff703fca6e28e0800000000000000
+      internalID: -1716316969877114107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Dodge Neon Arcade Logo_6
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 867
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc6a048075a5f29d0800000000000000
+      internalID: -2796917513726679349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Dodge Neon Arcade Logo_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 851
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae5877c840edc00a0800000000000000
+      internalID: -6913907216802675222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Dodge Neon Arcade Logo_8
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 833
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a18897f63a4a5bc10800000000000000
+      internalID: 2068740625703471130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Dodge Neon Arcade Logo_9
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 845
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a48c80fa18116110800000000000000
+      internalID: 1252308675369665701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Dodge Neon Arcade Logo_10
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 845
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85aa2117e0667de10800000000000000
+      internalID: 2222357153343253080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Dodge Neon Arcade Logo_11
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 848
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89f7be9aa02642820800000000000000
+      internalID: 2892544658618679192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Dodge Neon Arcade Logo_12
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 832
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48b527cb509b40f90800000000000000
+      internalID: -6988257287484580988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Dodge Neon Arcade Logo_13
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 808
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e91f67c87a08e1df0800000000000000
+      internalID: -207587075707965026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Dodge Neon Arcade Logo_14
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 816
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0fcd0aacd01f5d70800000000000000
+      internalID: 9033957917460385550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Dodge Neon Arcade Logo_15
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 808
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80c2f0557814e5f90800000000000000
+      internalID: -6963055924364760056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Dodge Neon Arcade Logo_16
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 818
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e01691982e68fea30800000000000000
+      internalID: 4246761281154539790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Dodge Neon Arcade Logo_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 734
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5007c383f764af20800000000000000
+      internalID: 3432983111548731487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Dodge Neon Arcade Logo_18
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 417
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 877a5e5d8b5dc14c0800000000000000
+      internalID: -4315339353088481416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Dodge Neon Arcade Logo_19
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 267
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f491a524198cf0b50800000000000000
+      internalID: 6561683708311116111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Dodge Neon Arcade Logo_20
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 137
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a25ac8757da8e150800000000000000
+      internalID: 5902158031718339238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Dodge Neon Arcade Logo_21
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 132
+        width: 13
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64d2e0805a5d49f50800000000000000
+      internalID: 6887364634937797958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Dodge Neon Arcade Logo_22
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 131
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7a3b552f99fca7a0800000000000000
+      internalID: -6364437711459501442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Dodge Neon Arcade Logo_23
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 134
+        width: 49
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cf45cb01acd227a0800000000000000
+      internalID: -6403313135922098240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Dodge Neon Arcade Logo_24
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 123
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22b5fffa524e76780800000000000000
+      internalID: -8689726105470411998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Dodge Neon Arcade Logo_25
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 137
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 411cd476b785d3420800000000000000
+      internalID: 2611340645982126356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Dodge Neon Arcade Logo_26
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 129
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1b0fa5e0e698e270800000000000000
+      internalID: 8280033807590951710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Dodge Neon Arcade Logo_27
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 127
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dafbd4d61b126b00800000000000000
+      internalID: 820247867009268433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Dodge Neon Arcade Logo_28
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 135
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d422a34c85d8b8b0800000000000000
+      internalID: -5136120576609213226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Dodge Neon Arcade Logo_29
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 121
+        width: 19
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5954b3d2b7f6477f0800000000000000
+      internalID: -615744674212395627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Dodge Neon Arcade Logo_30
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 127
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97a80c89fffc80830800000000000000
+      internalID: 4037705762624014969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Dodge Neon Arcade Logo_31
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 135
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3913822a9488b3c60800000000000000
+      internalID: 7798977029556679059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Dodge Neon Arcade Logo_32
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 128
+        width: 52
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e7f2dcc9bd794320800000000000000
+      internalID: 2542701701586155493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Dodge Neon Arcade Logo_33
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 109
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 611dc5507264e4b50800000000000000
+      internalID: 6579273239042511126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Dodge Neon Arcade Logo_34
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 124
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64ff986c84b701d90800000000000000
+      internalID: -7129062657628700858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Dodge Neon Arcade Logo_35
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 76
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7468f934893a9bb60800000000000000
+      internalID: 7762415307114645063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Dodge Neon Arcade Logo_36
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 83
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23c67a21a0f6d1d20800000000000000
+      internalID: 3250876595084684338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Dodge Neon Arcade Logo_37
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 104
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2034fc7977916bba0800000000000000
+      internalID: -6073639046023789822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Dodge Neon Arcade Logo_38
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 104
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63192d55053d0cf90800000000000000
+      internalID: -6935311084159856330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Dodge Neon Arcade Logo_39
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 98
+        width: 38
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dd23cb5d0d8262e0800000000000000
+      internalID: -2133988184906584623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Dodge Neon Arcade Logo_40
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 96
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fb0598a722f47380800000000000000
+      internalID: -8974281905296569353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Dodge Neon Arcade Logo_41
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 80
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc2034c6c8db26830800000000000000
+      internalID: 4063018224651010763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Dodge Neon Arcade Logo_42
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 88
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acd8dbf7f53dbcb60800000000000000
+      internalID: 7767534389449035210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Dodge Neon Arcade Logo_43
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 88
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2840e6c78535ea180800000000000000
+      internalID: -9102246157359381374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Dodge Neon Arcade Logo_44
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 86
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40ea66afd5910fd10800000000000000
+      internalID: 2157252112934153732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Dodge Neon Arcade Logo_45
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 84
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7e3dc4e02ea19a90800000000000000
+      internalID: -7308869263944761732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Dodge Neon Arcade Logo_46
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 88
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39ef0246e38bd9dd0800000000000000
+      internalID: -2477621641876537709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Dodge Neon Arcade Logo_47
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 56
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29cd5fe0056671fd0800000000000000
+      internalID: -2371314184752866158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Dodge Neon Arcade Logo_48
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 39
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a558c80c5d6a54770800000000000000
+      internalID: 8594458900895139162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Dodge Neon Arcade Logo_49
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 34
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0644362520dba7e20800000000000000
+      internalID: 3349197090573206624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Robot Dodge Neon Arcade Logo_50
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 29
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 534341c1ff751e120800000000000000
+      internalID: 2441329226210882613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Robot Dodge Neon Arcade Logo_0: -1332453425879270259
+      Robot Dodge Neon Arcade Logo_1: -7895862854829872597
+      Robot Dodge Neon Arcade Logo_10: 2222357153343253080
+      Robot Dodge Neon Arcade Logo_11: 2892544658618679192
+      Robot Dodge Neon Arcade Logo_12: -6988257287484580988
+      Robot Dodge Neon Arcade Logo_13: -207587075707965026
+      Robot Dodge Neon Arcade Logo_14: 9033957917460385550
+      Robot Dodge Neon Arcade Logo_15: -6963055924364760056
+      Robot Dodge Neon Arcade Logo_16: 4246761281154539790
+      Robot Dodge Neon Arcade Logo_17: 3432983111548731487
+      Robot Dodge Neon Arcade Logo_18: -4315339353088481416
+      Robot Dodge Neon Arcade Logo_19: 6561683708311116111
+      Robot Dodge Neon Arcade Logo_2: -7850903169694649141
+      Robot Dodge Neon Arcade Logo_20: 5902158031718339238
+      Robot Dodge Neon Arcade Logo_21: 6887364634937797958
+      Robot Dodge Neon Arcade Logo_22: -6364437711459501442
+      Robot Dodge Neon Arcade Logo_23: -6403313135922098240
+      Robot Dodge Neon Arcade Logo_24: -8689726105470411998
+      Robot Dodge Neon Arcade Logo_25: 2611340645982126356
+      Robot Dodge Neon Arcade Logo_26: 8280033807590951710
+      Robot Dodge Neon Arcade Logo_27: 820247867009268433
+      Robot Dodge Neon Arcade Logo_28: -5136120576609213226
+      Robot Dodge Neon Arcade Logo_29: -615744674212395627
+      Robot Dodge Neon Arcade Logo_3: -1377523768928205830
+      Robot Dodge Neon Arcade Logo_30: 4037705762624014969
+      Robot Dodge Neon Arcade Logo_31: 7798977029556679059
+      Robot Dodge Neon Arcade Logo_32: 2542701701586155493
+      Robot Dodge Neon Arcade Logo_33: 6579273239042511126
+      Robot Dodge Neon Arcade Logo_34: -7129062657628700858
+      Robot Dodge Neon Arcade Logo_35: 7762415307114645063
+      Robot Dodge Neon Arcade Logo_36: 3250876595084684338
+      Robot Dodge Neon Arcade Logo_37: -6073639046023789822
+      Robot Dodge Neon Arcade Logo_38: -6935311084159856330
+      Robot Dodge Neon Arcade Logo_39: -2133988184906584623
+      Robot Dodge Neon Arcade Logo_4: -2607977202640574463
+      Robot Dodge Neon Arcade Logo_40: -8974281905296569353
+      Robot Dodge Neon Arcade Logo_41: 4063018224651010763
+      Robot Dodge Neon Arcade Logo_42: 7767534389449035210
+      Robot Dodge Neon Arcade Logo_43: -9102246157359381374
+      Robot Dodge Neon Arcade Logo_44: 2157252112934153732
+      Robot Dodge Neon Arcade Logo_45: -7308869263944761732
+      Robot Dodge Neon Arcade Logo_46: -2477621641876537709
+      Robot Dodge Neon Arcade Logo_47: -2371314184752866158
+      Robot Dodge Neon Arcade Logo_48: 8594458900895139162
+      Robot Dodge Neon Arcade Logo_49: 3349197090573206624
+      Robot Dodge Neon Arcade Logo_5: -1716316969877114107
+      Robot Dodge Neon Arcade Logo_50: 2441329226210882613
+      Robot Dodge Neon Arcade Logo_6: -2796917513726679349
+      Robot Dodge Neon Arcade Logo_7: -6913907216802675222
+      Robot Dodge Neon Arcade Logo_8: 2068740625703471130
+      Robot Dodge Neon Arcade Logo_9: 1252308675369665701
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
